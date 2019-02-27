@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: jupyterlab
+Version: 0.35.4
+Summary: The JupyterLab notebook server extension.
+Home-page: http://jupyter.org
+Author: Jupyter Development Team
+Author-email: jupyter@googlegroups.com
+License: BSD
+Keywords: ipython,jupyter,Web
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.5
+Provides-Extra: test
+Provides-Extra: docs
+Requires-Dist: notebook (>=4.3.1)
+Requires-Dist: jupyterlab-server (<0.3.0,>=0.2.0)
+Provides-Extra: docs
+Requires-Dist: sphinx; extra == 'docs'
+Requires-Dist: recommonmark; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme; extra == 'docs'
+Provides-Extra: test
+Requires-Dist: pytest; extra == 'test'
+Requires-Dist: requests; extra == 'test'
+Requires-Dist: pytest-check-links; extra == 'test'
+
+
+An extensible, comprehensive Jupyter web application.
+Development happens on https://github.com/jupyter/jupyterlab, with chat on
+https://gitter.im/jupyterlab/jupyterlab.
+
+

@@ -23,6 +23,7 @@
 * [LSTM explained](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
 * [Transformer-XL explained](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+
 Ссылки на реализации языковых моделей/примеры использования:
 * ELMO: tf - [ru](http://docs.deeppavlov.ai/en/master/apiref/models/embedders.html#deeppavlov.models.embedders.elmo_embedder.ELMoEmbedder), [en](https://tfhub.dev/google/elmo/2); pytorch - [for many languages](https://github.com/HIT-SCIR/ELMoForManyLangs/), [paper](https://arxiv.org/pdf/1802.05365.pdf)
 * ULMFit: pytorch - [en](https://github.com/fastai/fastai/blob/master/courses/dl2/imdb.ipynb), [ru, тайга](https://github.com/mamamot/Russian-ULMFit/), [ru wiki](https://github.com/ppleskov/Russian-Language-Model), [paper](https://arxiv.org/pdf/1801.06146.pdf)

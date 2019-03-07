@@ -12,11 +12,13 @@
 ### 1. Named Entity Recognition
 Определение именованных сущностей с помощью архитектуры SENNA.
 * [Contest](https://www.kaggle.com/c/mipt-ner) на kaggle.
-* См. anytask
+* Условие [git](hws/hw1.ipynb)
+* Посылать в anytask.
 
 ## Занятия
 ### Занятие 5. Языковые модели
 Материалы [тут](class05-LM/)
+
 Полезные ссылки
 * [LSTM explained](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)

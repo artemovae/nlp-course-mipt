@@ -16,6 +16,11 @@
 * Условие [git](hws/hw1.ipynb)
 * Посылать в anytask.
 
+### 2. NMT
+Машинный перевод.
+* Условие [git](hws/hw2.pds)
+* Посылать в anytask.
+
 ## Занятия
 ### Занятие 5. Языковые модели
 Материалы [тут](class05-LM/)
@@ -32,6 +37,12 @@
 * BERT: tf - [multilingual](https://github.com/google-research/bert), pytorch - [multilingual](https://github.com/huggingface/pytorch-pretrained-BERT), [paper](https://arxiv.org/pdf/1810.04805.pdf)
 * Transformer-XL: tf, pytorch - [en](https://github.com/kimiyoung/transformer-xl), [paper](https://arxiv.org/pdf/1901.02860.pdf), [explanation](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 * OpenAI GPT-2: [en](https://github.com/openai/gpt-2), [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+
+### Занятие 6. Seq2Seq и Attention
+Материалы [тут](class06-Seq2Seq-Attn/)
+
+### Занятие 7. Синтакс
+Материалы [тут](class07-Syntax/)
 
 
 ## Рекомендуемые ресурсы

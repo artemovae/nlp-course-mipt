@@ -44,6 +44,22 @@
 ### Занятие 7. Синтакс
 Материалы [тут](class07-Syntax/)
 
+### Занятие 8. QA
+Материалы [тут](class08-QA/)
+
+Полезные ссылки и статьи
+
+##### IR based QA
+* [Reading Wikipedia to Answer Open-Domain Questions (DrQA), 2017](https://arxiv.org/pdf/1704.00051.pdf)
+* [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS, 2017](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+* [Pointer Networks, 2017](https://arxiv.org/pdf/1506.03134.pdf)
+* [S-NET: FROM ANSWER EXTRACTION TO ANSWER GENERATION FOR MACHINE READING COMPREHENSION, 2018](https://arxiv.org/pdf/1706.04815.pdf)
+* [QANET: COMBINING LOCAL CONVOLUTION WITH GLOBAL SELF-ATTENTION FOR READING COMPREHENSION, 2018](https://arxiv.org/pdf/1804.09541.pdf)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018](https://arxiv.org/pdf/1810.04805.pdf)
+
+##### KB based QA
+* [Open Information Extraction (OpenIE)](https://stanfordnlp.github.io/CoreNLP/openie.html)
+* [Large-scale Simple Question Answering with Memory Networks, 2015](https://arxiv.org/pdf/1506.02075.pdf)
 
 ## Рекомендуемые ресурсы
 ### На английском
